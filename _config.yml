@@ -17,7 +17,12 @@ header_pages:
   - home.md
   - extra.md
 
-github_username: evanwill
+# github_username: evanwill
+
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
+    - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
 
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
