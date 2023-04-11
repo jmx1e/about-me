@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Extra Info
+layout: default
+title: Home
 ---
 
 ## solenoid test data
