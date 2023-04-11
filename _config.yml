@@ -11,6 +11,6 @@ remote_theme: jekyll/minima
 header_pages:
   - about.md
   - home.md
-  - extra.md
+  #- extra.md
 
 github_username: evanwill
