@@ -6,8 +6,9 @@ author:
 description: "About Me"
 
 # Build settings
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
 # theme: minima
+theme: architect
 
 # minima:
 #   skin: dark
