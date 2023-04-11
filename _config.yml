@@ -6,8 +6,8 @@ author:
 description: "About Me"
 
 # Build settings
-# remote_theme: jekyll/minima
-theme: minima
+remote_theme: jekyll/minima
+# theme: minima
 
 # minima:
 #   skin: dark
@@ -17,27 +17,28 @@ header_pages:
   - home.md
   - extra.md
   
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# plugins:
+#   - jekyll-feed
+#   - jekyll-seo-tag
 
 # github_username: evanwill
+github_username: jmx1e
 
-minima:
-  social_links:
-    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
-    - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
+# minima:
+#   social_links:
+#     - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
+#     - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+# navbar-col: "#EAEAEA"
+# navbar-text-col: "#404040"
+# navbar-border-col: "#DDDDDD"
+# page-col: "#FFFFFF"
+# text-col: "#404040"
+# link-col: "#008AFF"
+# hover-col: "#0085A1"
+# footer-col: "#EAEAEA"
+# footer-text-col: "#777777"
+# footer-link-col: "#404040"
+# footer-hover-col: "#0085A1"
 
 
