@@ -1,0 +1,9 @@
+# Site settings
+title: This is Jamin Xie
+author:
+  name: Jamin Xie
+  email: jmxie2012@gmail.com
+description: "About Me"
+
+# Build settings
+remote_theme: alshedivat/al-folio
