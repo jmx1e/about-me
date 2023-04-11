@@ -10,6 +10,6 @@ remote_theme: jekyll/minima
 
 header_pages:
   - about.md
-  - portfolio.md
+  - home.md
 
-github_username:  jekyll
+github_username: evanwill
