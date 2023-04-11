@@ -14,7 +14,7 @@ remote_theme: jekyll/minima
 
 header_pages:
   - about.md
-  - home.md
+  - solenoiddata.md
   - extra.md
   
 # plugins:
