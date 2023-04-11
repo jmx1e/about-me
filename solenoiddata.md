@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: page
 title: Data
 ---
-
+this used to be in "default" layout
 ## solenoid test data
 
 current (A) | B field (mT)
