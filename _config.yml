@@ -23,12 +23,12 @@ header_pages:
 #   - jekyll-seo-tag
 
 # github_username: evanwill
-github_username: jmx1e
+# github_username: jmx1e
 
-# minima:
-#   social_links:
-#     - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
-#     - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
+    - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
 
 # navbar-col: "#EAEAEA"
 # navbar-text-col: "#404040"
