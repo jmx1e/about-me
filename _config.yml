@@ -8,9 +8,12 @@ description: "About Me"
 # Build settings
 remote_theme: jekyll/minima
 
+minima:
+  skin: dark
+
 header_pages:
   - about.md
   - home.md
-  #- extra.md
+  - extra.md
 
 github_username: evanwill
